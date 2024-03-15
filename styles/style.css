@@ -142,4 +142,5 @@ body{
 }
 ul{
     list-style: none;
+    white-space: nowrap;
 }
